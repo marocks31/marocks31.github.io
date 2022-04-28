@@ -71,6 +71,14 @@ input, select, textarea {
 	appearance: none;
 }
 
+h1 {
+  font-size: 150px;
+  background: -webkit-linear-gradient(rgb(241, 134, 216), rgb(247, 236, 211));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
